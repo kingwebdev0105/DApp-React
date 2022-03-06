@@ -141,10 +141,3 @@ Error: The contract code couldn't be stored, please check your gas amount.
 
 Please file an issue: https://github.com/mjhm/create-react-dapp/issues
 
-## Acknowledgements
-
-- The starting place for the Voting app in this project came from [Mahesh Murthy's Medium article](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) which provides a very easy to follow introduction to writing Ethereum dApps.
-- The Create React App developers have done an awesome job building the very best starting tool for web app development. The standards they've set are an inspiration.
-- The Truffle Framework team is pioneering the infrustructure needed for building Ethereum dApps. This framework is not just providing tools, but also establishing best practices for dApp development.
-
-
