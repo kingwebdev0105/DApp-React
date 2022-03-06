@@ -137,7 +137,4 @@ Error: The contract code couldn't be stored, please check your gas amount.
 ...
 ```
 
-### Any Other Problems
-
-Please file an issue: https://github.com/mjhm/create-react-dapp/issues
 
